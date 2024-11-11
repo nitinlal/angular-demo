@@ -41,7 +41,7 @@
         </object>
         <object label="instance2_table" id="t2zCd8x_onf9Ihnw5szz-31">
           <mxCell style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-            <mxGeometry x="950" y="380" width="120" height="50" as="geometry" />
+            <mxGeometry x="810" y="360" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
         <object label="IAM Role" id="t2zCd8x_onf9Ihnw5szz-32">
