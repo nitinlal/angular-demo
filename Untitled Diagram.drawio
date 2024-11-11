@@ -40,7 +40,7 @@
         <mxCell id="t2zCd8x_onf9Ihnw5szz-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t2zCd8x_onf9Ihnw5szz-30" target="t2zCd8x_onf9Ihnw5szz-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="instance1_table" id="t2zCd8x_onf9Ihnw5szz-30">
+        <object label="sbux-prod-table" id="t2zCd8x_onf9Ihnw5szz-30">
           <mxCell style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="790" y="300" width="110" height="50" as="geometry" />
           </mxCell>
@@ -51,7 +51,7 @@
         <mxCell id="t2zCd8x_onf9Ihnw5szz-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="t2zCd8x_onf9Ihnw5szz-31" target="t2zCd8x_onf9Ihnw5szz-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="instance2_table" id="t2zCd8x_onf9Ihnw5szz-31">
+        <object label="lsr-prod-table" id="t2zCd8x_onf9Ihnw5szz-31">
           <mxCell style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
             <mxGeometry x="790" y="360" width="110" height="50" as="geometry" />
           </mxCell>
@@ -143,6 +143,12 @@
         </mxCell>
         <mxCell id="t2zCd8x_onf9Ihnw5szz-82" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1155" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zCd8x_onf9Ihnw5szz-83" value="sbux-prod rea&lt;div&gt;der role&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="265" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t2zCd8x_onf9Ihnw5szz-84" value="lsr-prod author role" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="410" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
