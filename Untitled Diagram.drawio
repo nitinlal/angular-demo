@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <object label="Amazon S3&#xa;company-connect-data" id="t2zCd8x_onf9Ihnw5szz-24">
           <mxCell style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-            <mxGeometry x="150" y="320" width="78" height="78" as="geometry" />
+            <mxGeometry x="156" y="320" width="78" height="78" as="geometry" />
           </mxCell>
         </object>
         <object label="sbux-prod/" id="t2zCd8x_onf9Ihnw5szz-25">
