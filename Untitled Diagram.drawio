@@ -31,7 +31,7 @@
         </object>
         <object label="Glue Database" id="t2zCd8x_onf9Ihnw5szz-29">
           <mxCell style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glue;" vertex="1" parent="1">
-            <mxGeometry x="630" y="309" width="80" height="80" as="geometry" />
+            <mxGeometry x="630" y="310" width="80" height="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="t2zCd8x_onf9Ihnw5szz-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t2zCd8x_onf9Ihnw5szz-30" target="t2zCd8x_onf9Ihnw5szz-66">
