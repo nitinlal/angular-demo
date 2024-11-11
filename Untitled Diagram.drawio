@@ -9,9 +9,9 @@
             <mxGeometry x="150" y="320" width="78" height="78" as="geometry" />
           </mxCell>
         </object>
-        <object label="instance-alias-1/" id="t2zCd8x_onf9Ihnw5szz-25">
-          <mxCell style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="300" y="290" width="100" height="60" as="geometry" />
+        <object label="sbux-prod/" id="t2zCd8x_onf9Ihnw5szz-25">
+          <mxCell style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;size=30;" vertex="1" parent="1">
+            <mxGeometry x="302" y="290" width="100" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="t2zCd8x_onf9Ihnw5szz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=30;exitPerimeter=0;" edge="1" parent="1" source="t2zCd8x_onf9Ihnw5szz-26" target="t2zCd8x_onf9Ihnw5szz-28">
@@ -19,9 +19,9 @@
             <mxPoint x="550" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="instance-alias-2/" id="t2zCd8x_onf9Ihnw5szz-26">
-          <mxCell style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="300" y="370" width="100" height="60" as="geometry" />
+        <object label="lsr-prod/" id="t2zCd8x_onf9Ihnw5szz-26">
+          <mxCell style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;size=28;" vertex="1" parent="1">
+            <mxGeometry x="302" y="370" width="100" height="60" as="geometry" />
           </mxCell>
         </object>
         <object label="Glue Crawler&#xa;(Scans all instances)" id="t2zCd8x_onf9Ihnw5szz-28">
@@ -36,12 +36,12 @@
         </object>
         <object label="instance1_table" id="t2zCd8x_onf9Ihnw5szz-30">
           <mxCell style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-            <mxGeometry x="810" y="300" width="120" height="50" as="geometry" />
+            <mxGeometry x="820" y="300" width="110" height="50" as="geometry" />
           </mxCell>
         </object>
         <object label="instance2_table" id="t2zCd8x_onf9Ihnw5szz-31">
           <mxCell style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-            <mxGeometry x="810" y="360" width="120" height="50" as="geometry" />
+            <mxGeometry x="820" y="360" width="110" height="50" as="geometry" />
           </mxCell>
         </object>
         <object label="IAM Role" id="t2zCd8x_onf9Ihnw5szz-32">
@@ -112,6 +112,19 @@
         </mxCell>
         <mxCell id="t2zCd8x_onf9Ihnw5szz-65" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="850" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <object label="IAM Role" id="t2zCd8x_onf9Ihnw5szz-66">
+          <mxCell style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.identity_and_access_management;" vertex="1" parent="1">
+            <mxGeometry x="970" y="270" width="78" height="78" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="IAM Role" id="t2zCd8x_onf9Ihnw5szz-67">
+          <mxCell style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.identity_and_access_management;" vertex="1" parent="1">
+            <mxGeometry x="970" y="389" width="78" height="78" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="t2zCd8x_onf9Ihnw5szz-68" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rotation=0;gradientColor=#223548;strokeColor=none;gradientDirection=east;fillColor=#5b738b;rounded=0;pointerEvents=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;spacingTop=4;spacingBottom=4;spacingLeft=4;spacingRight=4;points=[];fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="994" y="230" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
